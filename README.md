@@ -6,7 +6,11 @@ Projeto LSI microservice UNIVERSIDADE XYZ
 Exemplo de configuração usando o spring cloud
 
 ### Eureka server
-!(https://github.com/walneygomes/microservice-LSI-PROJETO/esquema.png)[SpringClound]
+IMAGENS DO PROJETO COMO MEIO DE ABSTRAÇÃO
+
+https://github.com/walneygomes/LSI-MICROSSERVICE/blob/master/eurekaserviceaplication.png%20
+https://github.com/walneygomes/LSI-MICROSSERVICE/blob/master/esquema.png%20
+https://github.com/walneygomes/LSI-MICROSSERVICE/blob/master/configservice.png
 
 Aqui apresentamos como esta nosso esquema. Temos os Alunos, Professores, Matriculas, Cursos, Disciplinas no centro da imagem representando os microservices,
 com suas portas.Alunos:9010, Professores:9080, Matriculas:9091, Cursos:8080, Disciplinas:9092.
